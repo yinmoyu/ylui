@@ -10,7 +10,7 @@
         "wallpaperSlideTime": 1519442460788,
         "wallpaperSlideIndex": 8,
         "openMax": 9,
-        "idCounter": 179,
+        "idCounter": 181,
         "themeColor": "rgba(2,35,64,1)",
         "autoThemeColor": true,
         "wallpapers": [
@@ -478,7 +478,7 @@
         },
         "ylui-apps-starwars": {
             "addressBar": false,
-            "autoRun": 9,
+            "autoRun": 0,
             "background": true,
             "badge": 0,
             "desc": "一款精致的纯CSS动态壁纸，星战迷不容错过。",
